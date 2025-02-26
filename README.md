@@ -957,6 +957,7 @@ Components and native modules.
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [binstorm ★5](https://github.com/binbytes/binstorm)) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it 🌎 [here](docs-binstorm.binbytes.com/).
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [styled-react-native](https://github.com/jsifalda/styled-react-native)) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in 🌎 [this Medium article](medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * <b><code>&nbsp;&nbsp;&nbsp;566⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;33🍴</code></b> [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)) - A react native styling system based on TailwindCSS.
+* [Jacaranda ★2](https://github.com/coderdiaz/Jacaranda) - A React Native styling library for building composable components with a focus on developer experience.
 
 ### System
 
