@@ -1261,6 +1261,7 @@ Components and native modules.
 
 Useful React Native tooling.
 
+* <b><code>&nbsp;&nbsp;&nbsp;295⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [Facetpack ★295](https://github.com/ecrindigital/facetpack)) - Rust-powered Metro accelerator. 63x faster transforms, tree-shaking, Rust-style error messages, and improved DX.
 * <b><code>&nbsp;&nbsp;4012⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;129🍴</code></b> [upgrade-helper ★398](https://github.com/react-native-community/upgrade-helper)) - ⚛️ A web interface to support React Native developers in upgrading their apps. 🌎 [Link to tool](react-native-community.github.io/upgrade-helper)
 * <b><code>&nbsp;10479⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;819🍴</code></b> [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger)) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 * <b><code>&nbsp;&nbsp;3740⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;190🍴</code></b> [haul ★2711](https://github.com/callstack-io/haul)) - command line tool for developing React Native apps
@@ -1599,4 +1600,5 @@ Assortment of conference and training videos.
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 
 ## Source
+
 <b><code>&nbsp;35551⭐</code></b> <b><code>&nbsp;&nbsp;4031🍴</code></b> [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native))
