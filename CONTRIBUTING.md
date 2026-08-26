@@ -1,15 +1,19 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+This list is curated. Every entry should be something most React Native developers would be glad to discover today.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
+Please make sure your pull request follows these guidelines:
+
+- Search previous suggestions before making a new one; yours may be a duplicate.
+- Suggested projects should be **actively maintained** (a release or meaningful commit within the last ~12 months).
+- Suggested projects should work with **current React Native** (New Architecture support is a strong plus).
+- Libraries should have real adoption or be exceptionally novel. If you are submitting your own project, that's welcome — but it must clear the same bar as everything else.
+- Commercial products and SDKs are only listed when they are widely used in the community.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[PACKAGE](LINK) - DESCRIPTION.`
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- End all descriptions with a full stop/period.
+- Use the following format: `[NAME](LINK) - Description.` — short, descriptive, ends with a period.
+- New categories, or improvements to the existing categorization, are welcome.
 - Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+
+Removals are contributions too: if you find a dead, archived, or superseded entry, a PR pruning it (or pointing it at a maintained fork) is appreciated.
 
 Thank you for your suggestions!
