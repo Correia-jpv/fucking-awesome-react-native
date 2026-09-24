@@ -321,6 +321,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - <b><code>&nbsp;12027⭐</code></b> <b><code>&nbsp;&nbsp;1911🍴</code></b> [Detox](https://github.com/wix/Detox)) - Gray-box end-to-end testing and automation framework.
 - <b><code>&nbsp;&nbsp;3420⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;280🍴</code></b> [React Native Testing Library](https://github.com/callstack/react-native-testing-library)) - Testing utilities that encourage good practices.
 - <b><code>&nbsp;&nbsp;1909⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;183🍴</code></b> [Loki](https://github.com/oblador/loki)) - Visual regression testing for Storybook.
+- [Agent QA](https://vostride.com/docs/agent-qa/guides/mobile-testing) - Self-improving QA agent for natural-language Android and iOS app tests.
 
 ### Builds, Deployment & OTA Updates
 
