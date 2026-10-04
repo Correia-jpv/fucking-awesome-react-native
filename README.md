@@ -322,6 +322,8 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - <b><code>&nbsp;&nbsp;3420⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;280🍴</code></b> [React Native Testing Library](https://github.com/callstack/react-native-testing-library)) - Testing utilities that encourage good practices.
 - <b><code>&nbsp;&nbsp;1914⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;183🍴</code></b> [Loki](https://github.com/oblador/loki)) - Visual regression testing for Storybook.
 
+- [Agent QA](https://vostride.com/docs/agent-qa/guides/mobile-testing) - YAML-based Android and iOS regression tests with natural-language steps, a CLI, local dashboard, and MCP tools.
+
 ### Builds, Deployment & OTA Updates
 
 - 🌎 [EAS](expo.dev/eas) - Expo Application Services: cloud builds, app store submission, and OTA updates.
